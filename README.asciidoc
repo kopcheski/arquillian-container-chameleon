@@ -72,6 +72,9 @@ Example chameleonTarget values:
 ** 6.x
 ** 7.x
 * WildFly
+** 18.x
+** 17.x
+** 16.x
 ** 15.x
 ** 14.x
 ** 13.x
